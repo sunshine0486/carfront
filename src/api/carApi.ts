@@ -1,4 +1,4 @@
-import axios, { Axios, type AxiosRequestConfig } from "axios";
+import axios, { type AxiosRequestConfig } from "axios";
 import type { Car } from "../type";
 
 const BASE_URL = import.meta.env.VITE_API_URL;
